@@ -7,6 +7,9 @@
 - Navigation SafeArgs
 - Retrofit
 - JSON Converter with Gson
-- Logging Interceptor
 - Glide
 - Fragment Lifecycle
+- Firebase
+- CircleImageView
+- Groupie
+- Picasso
