@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "607760051566",
+    "firebase_url": "https://messagram-b9c8f-default-rtdb.firebaseio.com",
+    "project_id": "messagram-b9c8f",
+    "storage_bucket": "messagram-b9c8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607760051566:android:11048b6ce36c8bc83fa57f",
+        "android_client_info": {
+          "package_name": "com.mashimur.messagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607760051566-o19dg41lc8uoupekq3bl9s394lth5urn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIJtZwNOIkE0eS5f04DT8ODawEyZV35u0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607760051566-o19dg41lc8uoupekq3bl9s394lth5urn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

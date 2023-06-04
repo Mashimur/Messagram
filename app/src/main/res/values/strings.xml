@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">StreamSerie</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="manga">Manga</string>
+    <string name="anime">Anime</string>
+    <string name="movies">Movie</string>
+    <string name="chat">Chat</string>
+    <string name="account" />
+    <string name="profile">Profile</string>
+    <string name="anime_icon">anime_icon</string>
+    <string name="same_movies">Benzer Filmler</string>
+</resources>
