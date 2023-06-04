@@ -24,3 +24,14 @@ An application that allows you to perform authentication (login, registration, l
 - Firebase Cloud Firestore is used to manage user data such as profile information, list of favorite movies and other details. It allows you to store and organize data in real time.
 - Firebase Cloud Storage is used to store movie files like posters, images. This ensures efficient and secure storage of multimedia content.
 - Firebase Cloud Functions are used to implement server-side application logic, such as processing requests, interacting with the movie API, or performing certain actions when data changes. This allows you to extend the functionality of the application and provides greater flexibility.
+
+## Example
+![photo_2023-06-04_18-30-34](https://github.com/Mashimur/Messagram/assets/112876310/86d3c3a8-afbf-450f-afdf-50790de0fd06)
+![photo_2023-06-04_18-31-15](https://github.com/Mashimur/Messagram/assets/112876310/b7adff11-0b16-45f3-a32d-edbf95b49d45)
+![photo_2023-06-04_18-31-20](https://github.com/Mashimur/Messagram/assets/112876310/79b05bfe-d883-4f0f-a3d3-585229b1f307)
+![photo_2023-06-04_18-31-29](https://github.com/Mashimur/Messagram/assets/112876310/f299fcf0-bdd4-49b4-af3d-0379f35796c6)
+![photo_2023-06-04_18-31-35](https://github.com/Mashimur/Messagram/assets/112876310/bc200f63-9f3f-4581-a364-9f34761117aa)
+![photo_2023-06-04_18-31-25](https://github.com/Mashimur/Messagram/assets/112876310/520dded3-025d-4e1e-b58d-6f24ac621db1)
+![photo_2023-06-04_18-31-41](https://github.com/Mashimur/Messagram/assets/112876310/380e42c7-f551-455b-b1b4-8404ecdf5c0b)
+![photo_2023-06-04_18-31-51](https://github.com/Mashimur/Messagram/assets/112876310/98ce5d89-515c-421d-8ad8-4c1cf65b11ad)
+
